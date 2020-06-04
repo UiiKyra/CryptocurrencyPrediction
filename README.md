@@ -6,3 +6,5 @@ achieved Root Mean Square Error (RMSE) lower than baseline model which used last
 
 - Implemented the predictive model into TensorTrade to learn a trading strategy using Reinforcement
 Learning. Evaluated the trading strategy by backtesting, generated an increase in profit of 10,338USD.
+
+Plese check the [**executive summary report**](https://github.com/UiiKyra/CryptocurrencyPrediction/blob/master/Report.pdf) for details.

@@ -1,4 +1,4 @@
-# Cryptocurrency Prediction
+# Cryptocurrency Prediction Using Reinforcement Learning
 
 - Developed two Long Short Term Memory (LSTM) time-series models on historical bitcoin prices and Crypto Fear & Greed Index collected from API. Aggregated the models using linear regression to predict bitcoin price,
 achieved Root Mean Square Error (RMSE) lower than baseline model which used last day’s prediction.
